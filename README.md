@@ -1,2 +1,2 @@
-# REACT+REDUX-ASP.NET.CORE ( Case Study )
+# REACT+REDUX-ASP.NET.CORE ( Self-Learning Case Study )
  
