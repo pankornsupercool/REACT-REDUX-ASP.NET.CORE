@@ -1,2 +1,3 @@
-# REACT+REDUX-ASP.NET.CORE
+# REACT + REDUX + ASP.NET.CORE             
+( Self-Learning Case Study )
  
